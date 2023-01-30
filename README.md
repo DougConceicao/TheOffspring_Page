@@ -31,8 +31,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
  <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 />
  <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 />
- <br />
- <br />
+
+ ---
 
 ## 📌 Versão
 
@@ -49,9 +49,9 @@ Foi usado o [Github](https://github.com/) para controle de versão. Para as vers
 ### Autor
 
 
-<!-- <a href="https://github.com/DougConceicao">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/83365446?v=4" width="100px;" alt=""/>
- <br /> -->
+<a href="https://github.com/DougConceicao">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/114538750?v=4" width="100px;" alt=""/>
+ <br />
  <sub><b>Douglas Conceição</b></sub></a> <a href="https://github.com/DougConceicao" title="My Photo Profile">🚀</a>
 
 
