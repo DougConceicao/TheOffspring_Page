@@ -24,13 +24,13 @@ Veja você mesmo: https://the-offspring-page.vercel.app/
 </h4>
 
 ---
-
-## 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
- <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=40 height=40 />
- <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=40 height=40 />
+ 
+ ## 🛠 Tecnologias
+<div style="display: inline_block">
+  <p><h3>As seguintes ferramentas foram usadas na construção do projeto:</h3></p>
+  <img align="center" alt="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
 
  ---
 
